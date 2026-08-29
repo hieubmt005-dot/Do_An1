@@ -64,5 +64,5 @@ Hệ thống được thiết kế theo luồng xử lý phần cứng khép kí
 
 ## 👥 Thông tin tác giả (Author)
 * **Sinh viên thực hiện:** Nguyễn Thanh Hiếu
-* **Giảng viên hướng dẫn:** ThS. Trường Văn Cương
+* **Giảng viên hướng dẫn:** ThS. Trương Văn Cương
 * **Đơn vị:** Khoa Kỹ thuật Máy tính, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM (UIT).
